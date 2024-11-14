@@ -1,0 +1,13 @@
+﻿  NoSequence.cpp
+C:\Users\Kosh\source\repos\second\second\NoSequence.h(10,14): error C2039: "cout": не является членом "std".
+  (компиляция исходного файла "NoSequence.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(29,1):
+       см. объявление "std"
+  
+C:\Users\Kosh\source\repos\second\second\NoSequence.h(12,10): error C2039: "cout": не является членом "std".
+  (компиляция исходного файла "NoSequence.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(29,1):
+       см. объявление "std"
+  
+  second.cpp
+  Создание кода...
